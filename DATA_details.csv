@@ -1,0 +1,324 @@
+OBJECT_ID,Location,Latitude ,Longitude ,POI,POI_Encoded,Camera,Camera_Encoded,Population,Population density,Label
+1,Dewa EV green charger jumeira beach hotel ,25.14181833,55.19190459,hotel,1,yes,1,7021,4855.578201,1
+2,powertech electrical trading LLC ,25.18718951,55.28096242,company,2,yes,1,19715,6761.717058,1
+3,EV green charging station ,25.13367637,55.18563066,charging st,0,not_sure,0,4112,880.4798548,1
+4,EV-box charging station ,25.10615745,55.19591335,charging st,0,not_sure,0,35469,12990.48965,1
+5,tesla destination charger ( Al Barsha),25.11906433,55.20037206,charging st,0,not_sure,0,35469,12990.48965,1
+6,DEWA Fast charger ,25.09759942,55.16516295,charging st,0,not_sure,0,5592,1690.599976,1
+7,Tesla Destination charger ( jumeirah beach road),25.14224393,55.19123496,charging st,0,not_sure,0,7021,4855.578201,1
+8,tesla destination charger (mina a'slam) ,25.1352551,55.18605844,mall,2,yes,1,4112,880.4798548,1
+9,tesla destination charger (jumeirah Al Naseem),25.13728513,55.18701605,hotel,1,yes,1,7021,4855.578201,1
+10,Tesla destination charger (jumeirah Al Qasr),25.13188308,55.18438736,hotel,1,yes,1,4112,880.4798548,1
+11,tesla destination charger ( sheikh zayed road),25.10394382,55.1719896,charging st,0,not_sure,0,5592,1690.599976,1
+12,Tesla destination charger (Al A'amal st),25.18593075,55.26318085,charging st,0,not_sure,0,19715,6761.717058,1
+13,Tesla destination charger (Marasi Dr),25.1873241,55.27184081,charging st,0,not_sure,0,19715,6761.717058,1
+14,dewa charging station 6th st,25.19310549,55.27748134,charging st,0,not_sure,0,18698,10655.61536,1
+15,EV charging station ,25.09940285,55.17321716,charging st,0,not_sure,0,22638,26549.58708,1
+16,EV charging station ,25.07655578,55.14050293,charging st,0,not_sure,0,55052,11900.52901,1
+17,tesla destination charger east crescent ,25.14341329,55.14258545,charging st,0,not_sure,0,22333,1106.5478,1
+18,Tesla destination charger Al Falak St,25.09512967,55.15610806,charging st,0,not_sure,0,5592,1690.599976,1
+19,Tesla destination Charger palm jumeirah ,25.11189521,55.14156433,hotel,1,yes,1,22333,1106.5478,1
+20,Tesla destination charger dubai mall ,25.19895317,55.27666405,mall,2,yes,1,18698,10655.61536,1
+21,Tesla destination charger gate village ,25.21345911,55.28242651,hotel,1,yes,1,7509,969.7244961,1
+22,dewa ev green charger ( pavilion),25.03029972,55.14654774,hotel,1,yes,1,69115,3691.956093,1
+23,dewa ev green charger enoc patrol (alain road),25.22242438,55.31440498,petrol st,0,yes,1,3062,1184.015119,1
+24,dewa ev green charger city center parking p1,25.07698131,55.24093392,mall,2,yes,1,7057,2086.942879,1
+25,dewa ev green charger aljalila children special hosp,25.2301889,55.31715156,hosp,2,yes,1,4867,1893.002515,1
+26,dewa ev green charger etihad musuem parking ,25.24506249,55.27045959,musuem,2,yes,1,14129,1768.667255,1
+27,dewa ev green charger the beach ( green parking),25.07928348,55.13396817,jbr,2,yes,1,55052,11900.52901,1
+28,dewa ev green charger rashid tower car park,25.24903358,55.31921126,rashid park,2,yes,1,4867,1893.002515,1
+29,dewa ev green charger golf club sheikh zayed road,25.08680116,55.15909919,golf club,2,yes,1,17737,5859.311932,1
+30,dewa ev green charger Al sada multi story parking,25.23971754,55.35526015,al sada,2,yes,1,18424,6973.485667,1
+31,dewa eb green charger my city parking albarsha,25.07387166,55.24162056,mall ,2,yes,1,7057,2086.942879,1
+32,dewa ev green charger nad al sheba park ,25.15521962,55.32470442,park,2,yes,1,5485,451.0720442,1
+33,dewa ev green charger jumeirah emirates tower,25.22201512,55.2821324,emirates tower,2,yes,1,12155,13769.68516,1
+34,dewa ev green charger zabeel plaza,25.22915851,55.29105879,mall,2,yes,1,3062,1184.015119,1
+35,dewa ev green charger alkhail police station ,25.07980495,55.21376434,police,2,yes,1,13267,3614.321513,1
+36,dewa ev green charger enoc petrol station sheikh zayed rd,25.09771514,55.16505935,petrol st,2,yes,1,5592,1690.599976,1
+37,dewa ev green charger dwtc multi story parking,25.24095972,55.35320021,charging st,0,not_sure,0,18424,6973.485667,1
+38,dewa ev green charger marina mall parking level 2,25.07767497,55.14084166,mall,2,yes,1,55052,11900.52901,1
+39,dewa ev green charger palm jumeira club vista mare,25.11629074,55.141964,hotel ,1,yes,1,22333,1106.5478,1
+40,dewa ev green charger golden mile ground flour ,25.10735291,55.14823653,charging st,0,not_sure,0,22333,1106.5478,1
+41,dewa ev green charger dubai design district ,25.19405867,55.29792525,district ,0,yes,1,7509,969.7244961,1
+42,dewa ev green charger business central tower ,25.10144598,55.1688359,central tower,0,yes,1,5592,1690.599976,1
+43,dewa ev green charger la mer meras yellow parking,25.23443814,55.26427962,charging st,0,yes,1,18843,3451.540399,1
+44,dewa ev green parking difc gate villiage parking lvl 1,25.21766676,55.27972914,mall,2,yes,1,12155,13769.68516,1
+45,dewa ev green parking difc gate villiage parking lvl 3,25.21642434,55.28178908,mall,2,yes,1,12155,13769.68516,1
+46,dewa ev green charger health center,25.20534071,55.2845359,hospital,2,yes,1,7509,969.7244961,1
+47,"dewa ev green charger , albarsha south park ",25.09127079,55.22996866,park,1,not_sure,0,13267,3614.321513,1
+48,"dewa ev green charger , d3 parking 9 basement 1",25.19281601,55.29861189,avenue,0,yes,1,7509,969.7244961,1
+49,dewa ev green charger dubai petroleum establishiment ,25.21714423,55.26462318,petrol st,2,yes,1,54338,42645.24196,1
+50,dewa ev green charger mercato basmenet floor,25.22201512,55.25535323,mall,2,yes,1,18843,3451.540399,1
+51,dewa ev green charger burj khalifa armani hotel,25.20182499,55.27595259,hotel,1,yes,1,18698,10655.61536,1
+52,"dewa ev green charger , dubai maritime",25.00551074,55.14877732,charging st,0,not_sure,0,129024,7038.353812,1
+53,"dewa ev green charger , boulvard parking 2 level 1",25.19343734,55.27217604,avenue,1,yes,1,18698,10655.61536,1
+54,"dewa ev green charger city walk two , basement ",25.21300763,55.26290633,avenue,1,yes,1,54338,42645.24196,1
+55,"dewa ev green charger , d3 bldg 11",25.19291471,55.2965522,avenue,1,yes,1,7509,969.7244961,1
+56,"dewa ev green charger , boulvard parking 2 lvl 1,pillar 113",25.19289251,55.27280532,avenue,1,yes,1,18698,10655.61536,1
+57,"dewa ev green charger hilton garden in hotel , g floor",25.11730079,55.19527175,hotel,1,yes,1,35469,12990.48965,1
+58,"dewa ev green charger , customer hapiness center 52 a ST",25.20081211,55.26252683,centre,2,not_sure,0,11156,3398.566382,1
+59,"dewa ev green charger , customer hapiness center 8 B ST",25.24757961,55.28110268,centre,2,not_sure,0,21957,21445.11218,1
+60,"dewa ev green charger , dubai holding",25.13357853,55.18926577,company,2,yes,1,7021,4855.578201,1
+61,"dewa ev green charger , anantara hotel ",25.1337145,55.15311107,hotel,1,yes,1,22333,1106.5478,1
+62,dewa ev green charger mall of emirates,25.11869195,55.20125896,mall,2,yes,1,35469,12990.48965,1
+63,dewa ev green charger times square ,25.14010551,55.21990732,mall,2,yes,1,26569,7651.154606,1
+64,dewa ev green charger al manara muncpility center,25.15836367,55.22754625,center,2,yes,1,6247,5510.24048,1
+65,dewa ev green charger al boorsa street ,25.26611111,55.37208296,charging st,1,not_sure,0,10957,6027.782186,1
+66,tesla destination charger marina road ,25.08617807,55.13622016,charging st,1,not_sure,0,55052,11900.52901,1
+67,tesla destination charger raddison blue ,25.08151392,55.14308661,hotel,1,yes,1,55052,11900.52901,1
+68,green parking ev charger rixos premuim jbr marina,25.11571356,55.10841101,hotel,1,yes,1,22333,1106.5478,1
+69,tesla destination charger almarsa st,25.07401797,55.12729368,charging st,0,not_sure,0,55052,11900.52901,1
+70,tesla destination charger p.o box 97555,25.10352348,55.17295553,charging st,1,not_sure,0,5592,1690.599976,1
+71,tesa destination charger bay central ,25.08136131,55.13747378,hotel,0,yes,1,55052,11900.52901,1
+72,dewa charging station king salman abdulaziz ,25.09737131,55.152013,charging st,0,not_sure,0,5592,1690.599976,1
+73,tesla destination charger the walk ,25.08632819,55.13833206,avenue,1,yes,1,55052,11900.52901,1
+74,My City Center - Al Barsha Parking - Dubai,25.07871918,55.24324894,centre,0,yes,1,7057,2086.942879,1
+75,Police Station - Al Khail Rd - Al BarshaAl Barsha South - Dubai,25.08369438,55.21509647,police st,1,yes,1,13990,4086.185735,1
+76,Park - Al BarshaAl Barsha South - Dubai,25.09737514,55.23157596,park,1,not_sure,0,13267,3614.321513,1
+77,"Ground Floor, Business Central Towers - Sheikh Zayed Rd - Al SufouhAl Sufouh 2 - Dubai",25.10621076,55.17129773,building,2,yes,1,5592,1690.599976,1
+78,Enoc Petrol Station - Sheikh Zayed Rd - Dubai,25.098686,55.16423458,petrol st,2,yes,1,5592,1690.599976,1
+79,Emirates Golf Club - Sheikh Zayed Rd - Emirates Hills 2 - Dubai,25.09003197,55.15758691,golf club,1,yes,1,5592,1690.599976,1
+80,The Beach - Green Parking - Al Mamsha St - Dubai Marina - Dubai,25.08250622,55.13390459,avenue,1,yes,1,55052,11900.52901,1
+81,"Golden Mile, Ground Floor - Dubai",25.10904908,55.14883672,mall,2,yes,1,22333,1106.5478,1
+82,"Club Vista Mare, Palm Jumeira - Dubai",25.11753194,55.14220073,hotel,0,yes,1,22333,1106.5478,1
+83,"HAI D3, Bldg 8, Basment 1, Parking 9 - Dubai",25.19142375,55.29716613,avenue,1,yes,1,7509,969.7244961,1
+84,"Boulevard Parking 2, Level 1, Pillar 115, Sheikh - Sheikh Mohammed bin Rashid Blvd - Dubai",25.19424408,55.27699405,avenue,1,yes,1,"18698	",10655.61536,1
+85,"Boulevard Parking 2, Level 1, Pillar 114, Sheikh - Sheikh Mohammed bin Rashid Blvd - Dubai",25.19253679,55.2728952,avenue,1,yes,1,18698,10655.61536,1
+86,Al Manara Centre - Dubai Municipality - Sheikh Zayed Rd - Al Safa 2 - Dubai,25.16059342,55.22768969,centre,0,yes,1,6247,5510.24048,1
+87,6th Street Close to Civil Defense Station - Dubai - DEWA Sustainable Building Of,25.15568385,55.23221929,civil defence st,2,yes,1,26569,7651.154606,1
+88,"Times Square, Basement Parking P2 - Sheikh Zayed Rd - Dubai",25.14188004,55.22001504,mall,2,yes,1,26569,7651.154606,1
+89,"Jumeirah Beach Hotel, Jumeira Beach Rd - Dubai",25.14440492,55.19212349,hotel,0,yes,1,7021,4855.578201,1
+90,Dubai Holding - Umm Suqeim St - Umm SuqeimUmm Suqeim 3 - Dubai,25.13388424,55.18948929,charging st,0,not_sure,0,7021,4855.578201,1
+91,"Mall Of Emirates Parking, Level 2, C8 - Al Barsha Rd - Dubai",25.11901347,55.20126572,mall,2,yes,1,35469,12990.48965,1
+92,"Hilton Garden Inn Hotel, Ground Floor - 22nd St - Dubai",25.11901347,55.19677208,hotel,0,yes,1,35469,12990.48965,1
+93,"Anantara Hotel Parking, Ground Floor - Crescent Rd - Palm Jumeirah - Dubai",25.13267541,55.15372241,hotel,0,yes,1,22333,1106.5478,1
+94,mina seyahi beach ,25.09343662,55.1490303,hotel,0,yes,1,55052,11900.52901,1
+95,128940 - King Salman Bin Abdulaziz Al Saud St - Dubai Marina - Dubai,25.09475554,55.14591366,charging st,0,yes,1,22333,1106.5478,1
+96,The Walk - Dubai Marina - Dubai,25.08385307,55.13770628,avenue,1,yes,1,55052,11900.52901,1
+97,The Walk - Jumeirah Beach Residence - Dubai,25.08088065,55.1370499,avenue,1,yes,1,55052,11900.52901,1
+98,34JP+5FG - Dubai Marina - Dubai,25.08065771,55.13573713,hotel,0,yes,1,55052,11900.52901,1
+99,"P.O.BOX.NO.73029 Radisson Blu Residence Dubai Marina Dubai Marina, 73029",25.07991459,55.14353167,hotel,0,yes,1,55052,11900.52901,1
+100,"Dubai Marina Mall Parking A, Level 2 - Al Marsa St - Dubai Marina - Dubai",25.07738796,55.14082777,mall,1,yes,1,55052,11900.52901,1
+101,34GR+86V - Dubai Marina - Dubai,25.07617231,55.14040834,avenue,1,yes,1,55052,11900.52901,1
+102,Al Barsha Rd - Al BarshaAl Barsha 1 - Dubai,25.12827799,55.20034896,charging st,1,not_sure,0,4097,3424.714013,1
+103,Sheikh Zayed Rd - Al SufouhAl Sufouh 2 - Dubai,25.10709315,55.17194895,charging st,1,not_sure,0,5592,1690.599976,1
+104,Sheikh Zayed Rd - Barsha Heights - Dubai,25.10300981,55.17311363,charging st,1,not_sure,0,5592,1690.599976,1
+105,Sheikh Zayed Rd - Barsha Heights - Dubai,25.10049592,55.17351021,charging st,1,not_sure,0,22638,26549.58708,1
+106,35WC+HWQ - Barsha Heights - Dubai,25.09744327,55.17222132,charging st,1,not_sure,0,22638,26549.58708,1
+107,Al Falak Street Dubai PO Box 211723 - Dubai,25.09636584,55.1567546,charging st,1,not_sure,0,5592,1690.599976,1
+108,King Salman Bin Abdulaziz Al Saud St - Dubai Marina - Dubai,25.09932874,55.15259049,avenue,1,yes,1,5592,1690.599976,1
+109,1 Al Falak St - Al SufouhAl Sufouh 2 - Dubai,25.09250499,55.15268963,charging st,1,not_sure,0,5592,1690.599976,1
+110,446Q+R6X - The Palm Jumeirah - Dubai,25.11694146,55.13733066,charging st,1,not_sure,0,22333,1106.5478,1
+111,???? ????? ???? - The Palm Jumeirah - Dubai,25.11152898,55.14114967,charging st,0,not_sure,0,22333,1106.5478,1
+112,Kempinski Residences & Hotel Apartments Dubai PO Box 2149941 - Crescent Rd - Dubai,25.11393456,55.10877106,hotel,1,yes,1,22333,1106.5478,1
+113,Al Mamzar Park - Al Khaleej Rd - Al Mamzar - Dubai,25.32456543,55.34611616,charging st,2,not_sure,0,14178,3568.303269,1
+114,"Muraqqabat Police Station, Salah Al Din St, Al Muraqqabat - Dubai",25.27766974,55.330337,police st,2,yes,1,81741,72387.26338,1
+115,"Dafza HQ, Entrance Parking, Near Food Court - Al Quds St - Dubai",25.26686631,55.37072883,park,2,not_sure,0,10957,6027.782186,1
+116,Dubai International Airport - Terminal 1 28 C St - Garhoud - Dubai,25.25297476,55.35195517,Airport,0,yes,1,22,1.656620511,1
+117,The Dubai Mall - Dubai,25.2044438,55.28245381,mall,2,yes,1,7509,969.7244961,1
+118,PO BOX 114822 AE - 1 Sheikh Mohammed bin Rashid Blvd - Downtown Dubai - Dubai,25.20349371,55.2743158,avenue,1,yes,1,12155,13769.68516,1
+119,Dubai Petroleum Establishment - 14 C St - Al Satwa - Dubai,25.21608188,55.26407766,charging st,1,not_sure,0,54338,42645.24196,1
+120,Meydan Racecourse - Al Meydan Rd - Nad Al Sheba 1 - Dubai,25.15788035,55.30214254,charging st,1,not_sure,0,5485,451.0720442,1
+121,DEWA Sustainable Building - 01 6th St - Al Quoz - Dubai,25.1555414,55.23218787,company,2,yes,1,26569,7651.154606,1
+122,62 18 C Street Dubai 75828 AE,25.15961105,55.22556198,charging st,1,not_sure,0,6247,5510.24048,1
+123,"Dubai Police Academy, General Department of Training Parking - Umm Suqeim St - Al SufouhAl Sufouh 1 - Dubai",25.12897828,55.19692867,Police st,2,yes,1,4097,3424.714013,1
+124,841 Jumeirah Beach Rd - Umm SuqeimUmm Suqeim 3 - Dubai,25.14483116,55.1910127,charging st,0,not_sure,0,7021,4855.578201,1
+125,Jumeirah Mina A'Salam - D94 - Dubai,25.13947569,55.18580664,charging st,0,not_sure,0,7021,4855.578201,1
+126,35W8+R2Q - Al SufouhAl Sufouh 2 - Dubai,25.10328405,55.16503137,charging st,0,not_sure,0,5592,1690.599976,1
+127,"Dubai Hospital Car Parking, Al Khaleeg Rd, Al Baraha - Deira - Dubai",25.28921438,55.32035299,hospital,2,yes,1,14,21.68680574,1
+128,HH The Ruler's Court - Ali Bin Abi Taleb St - Dubai,25.27252822,55.29902891,government building,2,yes,1,15453,140269.6899,1
+129,Car parking - Al Ghubaiba Rd - Al Fahidi - Dubai,25.27025759,55.28940366,car parking,1,yes,1,14129,1768.667255,1
+130,"Dubai Courts Parking, Main Building - Riyadh St - Dubai",25.25625444,55.32037187,government building,2,yes,1,6984,18844.2983,1
+131,Dubai Police Officer's Club - Sheikh Rashid Rd - Dubai,25.22862187,55.32664921,Police st,2,yes,1,4867,1893.002515,1
+132,11444 - Financial Center Rd - Dubai,25.1962939,55.28103174,centre,2,yes,1,18698,10655.61536,1
+133,105 316 Road Dubai 38495 AE - 316 Rd - Dubai,25.12035498,55.1972108,charging st,1,not_sure,0,4112,880.4798548,1
+134,Public Library - Dubai-Hatta Rd - Dubai,25.01989811,56.12853446,library,2,yes,1,0,0,1
+135,Customer Happiness Center - Hatta - Dubai,24.84742479,56.1261312,centre,2,yes,1,13295,281.775705,1
+136,Enoc Petrol Station - E44 - Dubai,24.88729565,56.0959188,petrol st,2,yes,1,0,0,1
+137,"Dewa R&D Center, Mohammed bin Rashid Al Maktoum Solar Park, Seih Al-Dahal - ???",24.83496251,55.37631436,center,2,yes,1,589,85.86192673,1
+138,Adnoc Petrol Station - Al Ain - Dubai Rd - ???,24.89766654,55.55757561,petrol st,2,yes,1,930,25.24704858,1
+139,Park - Saih Al Salam St - Dubai,24.96491378,55.47243157,park,2,yes,1,79,3.761077131,1
+140,Al Maktoum International Airport - Dubai Airport - ???? ???????? - Dubai,24.90015783,55.16206782,airport,0,yes,1,2183,16.08026258,1
+141,Enoc Petrol Station - Sheikh Mohammed Bin Zayed Rd - Dubai,24.89019236,55.03572505,petrol st,2,yes,1,9,0.263555067,1
+142,Eppco Petrol Station - Sheikh Zayed Rd - Dubai,24.9624238,55.00276607,petrol st,2,yes,1,3300,139.5641823,1
+143,"Expo 2020 Office, Dubai South - Dubai",24.99478966,55.17305415,building,2,yes,1,69000,5413.731016,1
+144,Dubai Investments Park - Dubai,25.01221391,55.15657466,park,2,yes,1,69000,5413.731016,1
+145,"Parking, JAFZA Food Court 2 - Expo Rd - Mina Jebel AliJebel Ali Freezone - Dubai",25.0109694,55.09614986,building,2,yes,1,1513,4.167264833,1
+146,"Jafza One Tower, Level -1, Green Zone, Row 12-41 Sheikh Zayed Rd, Jebel Ali - Dubai",24.97985263,55.08653682,building,2,yes,1,28600,862.790621,1
+147,"Seven Towers Complex, Beside Sandwichi Restaurant - Dubai",25.13856505,55.37629792,building,2,yes,1,3505,906.8526212,1
+148,Ministry of Climate Change & Environment - Al Ain - Dubai Rd - Academic City - Dubai,25.10996771,55.38591096,government building,2,yes,1,35361,6548.664728,1
+149,Enoc Petrol Station - Emirates Rd - Dubai,25.08260747,55.35707185,petrol st,2,yes,1,19550,1288.732991,1
+150,"Enoc Petrol Station, Sheikh Zayed Bin Hamdan Al Nahyan St - Dubai",25.08758252,55.30626008,petrol st,2,yes,1,9599,786.8159608,1
+151,Al Qudra Cycle Track - Al Qudra Rd - Dubai,24.87222749,55.34608552,charging st,1,not_sure,0,589,85.86192673,1
+152,Solar Park Innovation - Dubai DEWA Innovation Centre - Dubai,24.7671834,55.36684994,centre,2,yes,1,16,0.126331518,1
+153,X3F9+CQH - Mina Jebel AliJebel Ali Freezone - Dubai,25.00139242,55.08120543,charging st,1,not_sure,0,28600,862.790621,1
+154,Customer Happiness Center - 52 A St - Al Wasl - Dubai,25.218105,55.26231477,building,2,yes,1,54338,42645.24196,1
+155,"Boulevard Parking 2, Level 1, Pillar 59, Sheikh - Sheikh Mohammed bin Rashid Blvd - Dubai",25.21065033,55.27192781,avenue,1,yes,1,41048,22779.23255,1
+156,"City Walk Two, Basement, Blue Parking E11 - Al Safa St - Dubai",25.22431687,55.26780794,avenue,1,yes,1,54338,42645.24196,1
+157,My City Center - Al Barsha Parking - Dubai,25.10250643,55.24720857,centre,2,yes,1,68,3.453046478,1
+158,"B45 - La Mer - Meraas, Yellow Parking A45 - 2 A St - ?????????? ? - Dubai",25.24976211,55.26451662,building,2,yes,1,14129,1768.667255,1
+159,The Beach - Green Parking - Al Mamsha St - Dubai Marina - Dubai,25.08694051,55.13542727,mall,2,yes,1,55052,11900.52901,1
+160,"One Central Parking, Ground Floor, P B1 - Sheikh Zayed Rd - Dubai",25.23982505,55.28923586,building,2,yes,1,21957,21445.11218,1
+161,Emicool - Plant 7 - Detroit Rd - Motor City - Dubai,25.05957512,55.24941042,building,2,yes,1,68,3.453046478,1
+162,Emirates Golf Club - Sheikh Zayed Rd - Emirates Hills 2 - Dubai,25.09689004,55.15877322,golf club,2,not_sure,0,5592,1690.599976,1
+2,"Dira , alkleej road ( close to the gold market station) ",25.277357,55.301474,metro station ,1,yes ,1,1655,5827.452426,0
+5,souk diera street ( infront of iranian market ) ,25.268761,55.299679,market,2,yes ,1,2766,26144.34309,0
+6,18 th street (infront of hyber market ),25.269264,55.302261,market,2,yes ,1,3861,75994.52798,0
+7,beside RSA international general trading ,25.274109,55.303912,trading center ,2,yes ,1,18925,184209.4016,0
+8,Deira - Al Murar - Dubai - United Arab Emirates,25.276845,55.309796,small street,0,not_sure ,0,38294,182948.6104,0
+9,25 th street beside Dentise gentel saon ,25.272085,55.310292,small street,0,not_sure ,0,48804,94681.00146,0
+10,Near Al Maktoum Hospital Rd - Deira - Al Rigga ,25.266934,55.310721,street ,1,not_sure ,0,10279,21420.01946,0
+12,Baraha St - Deira - beside albarha smart medical center ,25.281215,55.320078,medical center ,2,yes ,1,24373,37647.42173,0
+13,Muteena - beside health hub clinic ,25.274004,55.322796,hospital ,2,yes ,1,43473,62556.60181,0
+14,38 22 B St - Deira - Next to IBIS deira hotel,25.265715,55.323016,hotel ,2,yes ,1,68717,69731.03102,0
+15,D85 - Deira - Riggat Al Buteen ,25.25905,55.31874,street ,1,not_sure ,0,6984,18844.2983,0
+16,47 26B Street - Abu Hail ,25.285231,55.32942,mall,2,yes ,1,16905,20299.09746,0
+18,Al Khabaisi - Dubai - United Arab Emirates,25.268722,55.337325,street ,0,not_sure ,0,1952,2495.694957,0
+19,Port Saeed - Dubai - United Arab Emirates,25.249768,55.332913,port ,1,yes ,1,13266,7084.798692,0
+20,Corniche Deira - Dubai - United Arab Emirates,25.300732,55.333886,sea ,1,not_sure ,0,468,574.3843225,0
+21,28-32 14 A St - Deira,25.291025,55.336882,small street,0,not_sure ,0,20392,22545.79179,0
+22,16th St - Deira - Dubai - United Arab Emirates,25.282628,55.347151,police station ,2,yes ,1,20847,23305.15892,0
+23,883X+HJ2 - Al Mamzar - Dubai - United Arab Emirates,25.303662,55.349077,beach ,1,not_sure ,0,14178,3568.303269,0
+24,12 11th St - Nad Shamma - Dubai - United Arab Emirates,25.216569,55.384502,high way,2,not_sure ,0,2964,4259.107385,0
+26,69J9+39M - Umm Ramool - Dubai - United Arab Emirates,25.230254,55.368195,workshop ,2,yes ,1,3545,1062.016575,0
+27,Al Rashidiya - Dubai - close to alrashidiya Library,25.224009,55.392086,libarary ,2,yes ,1,34594,11987.93464,0
+30,Al Twar - Al Twar 2 - Dubai - United Arab Emirates,25.261426,55.381755,street ,1,not_sure ,0,4577,6847.78895,0
+31,43 22nd St - Al Twar - Al Twar 3 - Dubai - United Arab Emirates,25.249527,55.39576,street ,1,not_sure ,0,10217,5386.574542,0
+32,Al Nahda 1 - Dubai - United Arab Emirates,25.289755,55.364264,small street,0,not_sure ,0,29011,30711.2315,0
+33,Al Qusais - Al Qusais 1 - Dubai - United Arab Emirates,25.278271,55.372442,police station ,2,yes ,1,41818,22811.9127,0
+34,34a 14 St - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates,25.269504,55.387334,small street,0,not_sure ,0,11442,10259.86457,0
+35,38 28th St - Al Qusais - Al Qusais 3 - Dubai - United Arab Emirates,25.261813,55.400417,small street,0,not_sure ,0,6812,4807.928858,0
+36,Al Nahda - Al Nahda 2 - Dubai - United Arab Emirates,25.290448,55.377912,street ,1,not_sure ,0,56489,36740.49923,0
+37,Al Qusais Industrial Area - Al Qusais Industrial Area 1 - Dubai - United Arab Emirates,25.286565,55.386364,industrial area ,2,yes ,1,8362,8764.17825,0
+38,Al Qusais Industrial Area - Al Qusais Industrial Area 2 - Dubai - United Arab Emirates,25.282053,55.393435,industrial area ,2,yes ,1,8063,6456.051394,0
+39,Muhaisnah - Muhaisnah 3 - Dubai - United Arab Emirates,25.271918,55.404133,street ,1,not_sure ,0,6129,5502.909545,0
+40,Muhaisnah - Muhaisnah 4 - Dubai - United Arab Emirates,25.279175,55.40885,street ,1,not_sure ,0,32346,19314.92146,0
+41,Unnamed Road - Sharjah - United Arab Emirates,25.298281,55.389189,high way ,2,not_sure ,0,2559,3772.974797,0
+42,15th St - Al Qusais Industrial Area - Al Qusais Industrial Area 4 - Dubai - United Arab Emirates,25.293832,55.40039,industrial area ,2,yes ,1,2476,5092.961808,0
+43,Solid Waste Dumping Area - Dubai - United Arab Emirates,25.286789,55.415024,dumbing area ,2,yes ,1,1286,654.1174583,0
+44,Tameem Villas - Mirdif - 48 33C Street - Mirdif - Dubai - United Arab Emirates,25.222835,55.422035,compond ,2,yes ,1,60288,9664.920659,0
+45,Mushrif - Dubai - United Arab Emirates,25.211954,55.449459,street ,1,not_sure ,1,63,6.482316768,0
+46,Muhaisnah - Muhaisnah 1 - Dubai - United Arab Emirates,25.244314,55.417494,street ,1,not_sure ,1,7375,2436.587359,0
+47,59 31st St - Al Mizhar - Al Mizhar 1 - Dubai - United Arab Emirates,25.244873,55.441702,small street,0,not_sure ,0,15806,3390.248148,0
+48,Al Mizhar - Al Mizhar 2 - Dubai - United Arab Emirates,25.243071,55.460333,street ,1,not_sure ,0,10781,3592.672359,0
+49,Cemetery - Muhaisnah - Muhaisanah 2 - Dubai - United Arab Emirates,25.26442,55.422312,street ,1,not_sure ,0,197838,50486.82428,0
+50,Oud Al Muteena - Dubai - United Arab Emirates,25.26407,55.445376,street ,1,not_sure ,0,12510,5545.35393,0
+51,Oud Al Muteena - Oud Al Muteena 2 - Dubai - United Arab Emirates,25.264317,55.464298,street ,1,not_sure ,0,5047,3215.354725,0
+52,Unnamed Road - Dubai - United Arab Emirates,25.279366,55.433745,high way ,2,not_sure ,0,2,1.139098861,0
+53,Old oud Mutena 3 ,25.274845,55.448458,street ,1,not_sure ,0,6344,5310.282228,0
+54,Wadi Al Amardi - Dubai - United Arab Emirates,25.203367,55.491239,street ,1,not_sure ,0,3193,155.2290075,0
+55,Al Khawaneej - Al Khawaneej 1 - Dubai - United Arab Emirates,25.244746,55.48735,crowded area ,2,not_sure ,0,12241,1018.514541,0
+56,Al Khawaneej - Dubai - United Arab Emirates,25.230371,55.520233,street ,1,not_sure ,0,3865,410.8726194,0
+57,Al Khawaneej - Al Khawaneej 2 - Dubai - United Arab Emirates,25.210907,55.537062,street ,1,not_sure ,0,1706,196.077656,0
+58,Al Khawaneej - Dubai - United Arab Emirates,25.238708,55.5449,street ,1,not_sure ,0,805,320.0698833,0
+59, Arabian Gulf- daria island ,25.214549,55.23443,close to an island ,0,not_sure ,0,39,97.35626857,0
+63,776V+XG9 - Al Fahidi - Dubai - United Arab Emirates,25.262375,55.293807,street ,0,not_sure ,0,46929,75441.70021,0
+64,14 St - Al Hamriya - Dubai - United Arab Emirates,25.260776,55.303835,street ,0,not_sure ,0,33421,56395.3026,0
+67,Al Raffa - Dubai - United Arab Emirates,25.254634,55.288312,street ,0,not_sure ,0,42904,53912.56599,0
+68,kuwat st  - almankhool ,25.249102,55.294975,road ,0,not_sure ,0,37400,30962.75379,0
+69,al karama dubai near al asam trading ,25.245157,55.304906,road ,0,yes ,1,70558,57707.61144,0
+70,oud metha near movenpick hotel ,25.23809,55.312405,hotel ,1,yes ,1,13616,13519.92458,0
+74,the dubai frame ,25.234701,55.296784,road ,0,yes ,1,2,3.938389103,0
+83,jumeira 2 near alsamadi resturant ,25.200678,55.240721,road ,0,yes ,1,9380,4535.060141,0
+87,near meydan resturant ,25.169257,55.291084,road ,0,yes ,1,819,136.0541706,0
+88,jumeirah 3 opposite sunset mall ,25.182836,55.22846,mall ,1,yes ,1,12493,5040.024477,0
+89,al safa 1 near splendour village ,25.175917,55.238113,road ,0,yes ,1,7893,5018.519012,0
+90,alqouz 1 32 b street ,25.168673,55.253301,road ,0,not_sure ,0,18845,8566.853301,0
+91,alqouz 2 near nas cycle track ,25.15075,55.271019,road ,0,not_sure ,0,4551,1385.832601,0
+92,umm suqeim 1 71 16 b street ,25.165898,55.215729,road ,0,not_sure ,0,10867,5607.35376,0
+94,"al qouz , latifa bint hamdan street ",25.159549,55.241871,road ,0,not_sure ,0,40541,21017.32806,0
+95,alqouz 4 behind jumeira unvirsety 63 14 street ,25.151804,55.253784,road ,0,not_sure ,0,21788,14511.60448,0
+96,umm suqeim 2 near emirates post office ,25.151763,55.202058,road ,0,yes ,1,11456,4764.05011,0
+97,almanara behind j3 mall 36 street 21A,25.144292,55.214064,mall ,1,yes ,1,7709,5793.686856,0
+99,54 22nd St - Al Quoz - Al Quoz Industrial Area 2 ,25.133207,55.247007,road ,0,not_sure ,0,158543,49828.14193,0
+102,11 19D Street - Al Quoz - Al Quoz Industrial Area 3 ,25.124948,55.218058,road ,0,not_sure ,0,25360,7116.957178,0
+103,ind 4 - 18 A Street - Al Quoz - Al Quoz Industrial Area 4 ,25.115671,55.23235,road ,0,not_sure ,0,38280,10048.3159,0
+104,alsufouh 1 near dubai police academy,25.120509,55.183099,academy ,1,yes ,1,4112,880.4798548,0
+106,19 32 B St - Al Barsha - Al Barsha 3 - Dubai,25.092191,55.198752,road ,0,not_sure ,0,13990,4086.185735,0
+107,11 29th St - Al Barsha - Al Barsha 2 - Dubai,25.100499,55.214815,road ,0,not_sure ,0,14815,3213.551651,0
+111,near jabal ali racecourse ,25.08051,55.189856,road ,0,not_sure ,0,115,21.35939547,0
+114,348X+GG3 - Jumeirah Islands - Jumeirah Heights ,25.066352,55.148958,road ,0,not_sure ,0,37067,16696.88621,0
+115,al asayel street near emirates hills ,25.062812,55.174344,hotel ,1,yes ,1,23488,2733.13147,0
+116,Al Badia Blvd - Dubai Festival City ,25.216801,55.361165,mall ,1,yes ,1,4641,1182.203735,0
+117,dubai creek ( in the sea ) ,25.195022,55.326036,sea ,0,not_sure ,0,2,0.309933473,0
+118,Ras Al Khor - Dubai Creek Harbour - Dubai,25.198305,55.35286,sea ,0,not_sure ,0,2,0.963425155,0
+119,"2-14 35 St - Nadd Al Hamar , near aswaq",25.197845,55.385896,mall ,1,yes ,1,13589,2596.230483,0
+120,alwarqa 1 near sharjah american international school ,25.187886,55.403094,school ,1,yes ,1,21696,15190.69042,0
+121,alwarqa 2 near lulu hyper market ,25.202583,55.409136,mall ,1,yes ,1,10237,4365.285338,0
+122,alwarqa 3 near gems our own english school girls ,25.191014,55.421937,school ,1,yes ,1,14208,3324.048278,0
+123,alwarqa 4 59A street ,25.186945,55.437047,road ,0, not_sure ,0,12910,3822.837099,0
+124,alwarqa 5 near kids farm african village ,25.180171,55.452813,road ,0,not_sure ,0,60,14.9111417,0
+125,wadi alamardi near tarablos street ,25.175975,55.485779,road ,0,not_sure ,0,55,7.037532182,0
+126,Palm Jebel Ali - Mina Jebel Ali - Dubai,25.008151,54.98932,road ,0,not_sure ,0,5,0.122333641,0
+129,palm jebel ali,24.931908,54.94927,road ,0,not_sure ,0,45,0.884790242,0
+131,Mina Jebel Ali - National Industries Park ,24.920775,55.056152,park ,1,yes ,1,2462,92.62970831,0
+132,Jebel Ali Freezone Extension - Dubai,24.95466169,55.10506881,factory ,1,yes ,1,23000,757.7908561,0
+134,Dubai Industrial City near mam food company,24.864097,55.053766,road ,0,not_sure ,0,13665,16.08026258,0
+135,"Dubai Industrial City , copart uae auctions",24.844633,55.077196,road ,0,not_sure ,0,11144,1374.997752,0
+136,"Dubai Industrial City, near sikka gcc",24.824874,55.096861,road ,0,not_sure ,0,11170,809.5708743,0
+138,"jabal ali 2 , near dewa jabal ali ",25.054311,55.115088,road ,0,not_sure ,0,1561,801.1821849,0
+141,alyalayis near hira industries ,24.97357,55.211525,road ,0,not_sure ,0,59763,3875.196366,0
+144,Bukadra - Nad Al Sheba 1 (petrol station),25.176798,55.326038,petrol station ,1,yes ,1,15,11.86926502,0
+145,"Ras Al Khor Industrial Area 1, near champion speed garage ",25.177741,55.338886,road ,0,yes ,1,2393,1274.494308,0
+146,"Ras Al Khor Industrial Area 2 , near dannub",25.177561,55.35714,road ,0,yes ,1,2352,787.2763543,0
+147,"Ras Al Khor Industrial Area 3, near vegetable and fruits shop",25.173493,55.381509,road ,0,yes ,1,21500,4824.023574,0
+148,"Nad Al Sheba 2, 13B street ",25.159513,55.347715,road ,0,not_sure ,0,2258,411.2268911,0
+149,"Nad Al Sheba 3, near kings school ",25.154767,55.375543,school ,1,yes ,1,137,27.45533621,0
+152,"International City , near china cluster ",25.164865,55.410382,road ,0,yes ,1,97159,13067.69437,0
+153,"Warsan 2 , near envirol plant ",25.158514,55.436653,road ,0,yes ,1,1524,217.3250505,0
+154,International City Phase(2) - near cartel 114,25.141566,55.403256,road ,0,yes ,1,8359,1417.001798,0
+155,Dubai Silicon Oasis - Industrial Area  near oasis authority ,25.122784,55.386768,factory ,1,yes ,1,35361,6548.664728,0
+158,Falconcity of Wonders ,25.101544,55.352771,road ,0,not_sure ,0,9623,1380.146313,0
+162,Arabian Ranches,25.051064,55.272236,Residence,2,yes,1,16179,3894.810964,0
+163,Arabian Ranches 2,25.038423,55.282562,Residence,2,yes,1,7740,1889.272269,0
+166,Dubai Miracle Garden,25.061216,55.236546,Residence,2,yes,1,4566,2172.407606,0
+167,Medcare Medical Center Motor City,25.046289,55.237767,Hospital,2,yes,1,9672,3140.775637,0
+168,MBC studio,25.034872,55.245856,Work,1,yes,1,1032,486.017816,0
+169,Damac Hills,25.02221,55.255234,Residence,2,yes,1,6250,2308.172181,0
+170,Mudon,25.017925,55.267569,Residence,2,yes,1,1759,959.8049723,0
+171,Seasons community JVC,25.058113,55.208602,Residence,2,yes,1,25297,4448.708612,0
+172,Dubai Sports City,25.0357,55.217681,Residence,2,yes,1,18789,4789.46319,0
+173,Golf city,25.007584,55.238564,Residence,2,yes,1,8919,1259.219832,0
+174,JVT,25.045125,55.186323,Residence,2,yes,1,6753,2779.67354,0
+175,Jumeira Golf Estates,25.020887,55.186806,Residence,2,yes,1,17413,1335.492589,0
+176,Remraam lakes,24.996244,55.218818,Tourism,0,not_sure,0,11,1.21790624,0
+177,Al Aweer,25.19984,55.571191,Residence,2,not_sure,0,3587,172.9060856,0
+178,Al Aweer cars showrooms,25.16924,55.590008,Work,2,not_sure,0,4870,155.5039037,0
+179,Lahbab,25.099818,55.565355,Road,0,not_sure,0,26,1.372218092,0
+180,Your trip tourism,25.123078,55.633266,Tourism,0,not_sure,0,46,3.473472332,0
+181,Lahbab neighberhood,25.048684,55.605359,Residence,2,not_sure,0,2921,227.4472351,0
+182,Mahani Gas exploration well,25.055864,55.652921,Work,0,yes,1,727,314.018864,0
+183,Nazwa mosque,25.020817,55.641932,Residence,0,not_sure,0,504,92.95010539,0
+184,Warsan 3,25.152425,55.463447,Residence,2,yes,1,13316,1735.607939,0
+185,Al Rowaiyah,25.126247,55.432335,Residence,1,not_sure,0,2923,311.6364668,0
+187,Camp.Point,25.115994,55.469633,Residence,1,not_sure,0,4036,81.86863326,0
+188,"4G6H+WGC Al Aweer, Dubai",25.112313,55.528761,Residence,1,not_sure,0,1119,161.3747241,0
+189,Um AlDaman,25.063674,55.419513,Residence,0,not_sure,0,258,74.82898906,0
+190,2FPW+222 Dubai,25.035025,55.495029,Road,0,not_sure,0,53,1.491663903,0
+191,Dubai Heritage & Culture Village,25.042084,55.551676,Tourism,0,yes,1,1363,63.7413379,0
+192,"XGQ8+WQM Al Lisaili, Dubai",24.989846,55.51692,Road,0,not_sure,0,309,28.29826781,0
+193,"XJ54+2GG Margham, Sharjah",24.957552,55.606324,Road,0,not_sure,0,930,25.24704858,0
+194,"WMP3+286 Margham, Sharjah",24.935049,55.653257,Road,0,not_sure,0,175,32.30730445,0
+196,"RMQG+HHX Murqquab, Dubai",24.838993,55.676487,Road,0,not_sure,0,232,8.64232731,0
+197,"RHGX+Q2W Murqquab, Dubai",24.82699,55.597588,Road,0,not_sure,0,570,49.04328729,0
+198,"PJRQ+6MC Al Faqa, Dubai",24.740553,55.639146,Road,0,not_sure,0,94,47.28099137,0
+200,397M+CV2 Dubai,25.063513,55.384648,Road,0,not_sure,0,8,0.741440643,0
+201,Petrodam DMCC,25.054789,55.340219,Road,0,not_sure,0,2,0.291423271,0
+202,Camelicious - Um Nahad 3 area - Dubai,25.028267,55.419997,Work,1,yes,1,2329,211.5704662,0
+204,The Valley By Emaar,25.002205,55.431806,Residence,1,yes,1,4,0.088945735,0
+207,ADNOC Service Station | Al Yufra (232),24.986333,55.361932,petrol station,1,yes,1,403,27.78481225,0
+208,Tiger Woods Dubai - Dubai,24.966705,55.389941,Tourism,0,not_sure,0,4,0.460881891,0
+209,Mira,25.011977,55.313957,Residence,0,yes,1,3,0.28066865,0
+210,Town Square,24.996174,55.289924,Residence,1,yes,1,0,0,0
+211,AlQudra,24.973402,55.346269,Tourism,0,not_sure,0,217,19.39534245,0
+212,X889+4X7 Dubai,24.965284,55.319909,Road,0,not_sure,0,4,0.440643213,0
+213,DEWA Habab Pumping Station Phase II,24.972287,55.267241,Work,0,yes,1,8,0.820204372,0
+214,Al Lisaili - Dubai,24.929121,55.461318,Residence,1,not_sure,0,100,4.386978228,0
+218,Love Lakes - Dubai,24.814064,55.456612,Tourism,0,not_sure,0,2633,131.8193484,0
+219,Treatment Plant Substation Jazeera Emirates Power Site,24.901314,55.255461,Work,0,yes,1,35,74745.37734,0
+220,Solar pump station by Man Energy,24.815297,55.269568,Work,0,yes,1,660,7.877871714,0
+223,7HPQJCQ9+R3 Alfaqah street,24.639501,55.417648,Road,0,not_sure,0,7,2.980534458,0
+224,Bab Al Shams Desert Resort - Dubai,24.825833,55.20042,Hotel,1,yes,1,3,3166.840117,0
+225,Al Layan site,24.794473,55.122021,Work,0,yes,1,804,22.25547205,0
+226,X4QM+2X3 - Dubai,24.74288843,55.15432483,Road,0,not_sure,0,10,0.616893278,0
+227,"M6FF+43P Al Ajban, Abu Dhabi",24.67283887,55.22271387,Road,0,not_sure,0,0,0,0
